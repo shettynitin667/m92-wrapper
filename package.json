@@ -1,0 +1,25 @@
+{
+  "name": "m92-wrapper",
+  "version": "1.0.0",
+  "description": "Wrapper for @m92 library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shettynitin667/m92-wrapper.git"
+  },
+  "keywords": [
+    "m92-wrapper"
+  ],
+  "author": "Nitin Shetty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shettynitin667/m92-wrapper/issues"
+  },
+  "homepage": "https://github.com/shettynitin667/m92-wrapper#readme",
+  "dependencies": {
+    "@m92/crypto": "^0.0.15"
+  }
+}
