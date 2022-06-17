@@ -1,7 +1,8 @@
 {
   "name": "m92-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapper for @m92 library",
+  "bin": "index.js",
   "main": "index.js",
   "scripts": {
     "start": "index.js",
