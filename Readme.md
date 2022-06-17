@@ -1,6 +1,6 @@
-# Foobar
+# M92-Wrapper
 
-Foobar is a Python library for dealing with word pluralization.
+M92-Wrapper is a wrapper that exposes encrpt and decrypt functions
 
 ## Installation
 
