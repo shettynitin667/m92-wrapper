@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const { Aes, AesUtils } =require('@m92/crypto');
 
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types, @typescript-eslint/no-explicit-any
